@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matt Barnes&#39; book reviews </title>
+    <link>https://mbarnes1.github.io/bookshelf/index.xml</link>
+    <language>en-us</language>
+    <author>Matt Barnes</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-12-02 10:26:40 -0500 EST</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>https://mbarnes1.github.io/bookshelf/post/good-to-great/</link>
+          <pubDate>Fri, 02 Dec 2016 10:26:40 EST</pubDate>
+          <author>Matt Barnes</author>
+          <guid>https://mbarnes1.github.io/bookshelf/post/good-to-great/</guid>
+          <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+        <item>
+          <title>Let my people go surfing</title>
+          <link>https://mbarnes1.github.io/bookshelf/post/let-my-people/</link>
+          <pubDate>Fri, 02 Dec 2016 10:23:43 EST</pubDate>
+          <author>Matt Barnes</author>
+          <guid>https://mbarnes1.github.io/bookshelf/post/let-my-people/</guid>
+          <description>&lt;p&gt;Yvon Chouinard&amp;rsquo;s story as an unusual businessman, environmentalist, and founder of Patagonia.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
